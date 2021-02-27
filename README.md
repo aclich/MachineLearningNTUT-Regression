@@ -1,5 +1,9 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3711633&assignment_repo_type=AssignmentRepo)
 # Regression Report_109368011
+
+Kaggle Competition Page: https://www.kaggle.com/c/ntut-ml-2020-regression  
+Rank:  
+![rank_img](rank.png)
+
 
 ## 1.作法說明
 
@@ -32,7 +36,8 @@ notebook link(google colab):https://colab.research.google.com/drive/1but2ZtuVCLP
 
 
 ## 2.程式方塊圖與寫法
-程式方塊圖如下:![程式方塊圖](workflow.png)
+程式方塊圖如下:  
+![程式方塊圖](workflow.png)  
 主要分為兩步驟，資料處理與預測模型建構，各部分細節程式寫法會在下方表示出來
 
  - Load data
