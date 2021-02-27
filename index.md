@@ -1,6 +1,6 @@
 # Regression Report_109368011
 
-Kaggle Competition Page: https://www.kaggle.com/c/ntut-ml-2020-regression  
+Kaggle Competition Page:[LINK](https://www.kaggle.com/c/ntut-ml-2020-regression)  
 Rank(7/166):  
 ![rank_img](rank.png)
 
@@ -9,7 +9,7 @@ Rank(7/166):
 
 本次作業利用google colab來完成，所有的訓練、驗證、測試資料也都上傳至google雲端硬碟，最後將預測答案從colab下載下來後上傳至kaggle。
 
-notebook link(google colab):https://colab.research.google.com/drive/1but2ZtuVCLP44UhUYYdy1dE_RCUZBoQ9?usp=sharing
+notebook link(google colab):[LINK](https://colab.research.google.com/drive/1but2ZtuVCLP44UhUYYdy1dE_RCUZBoQ9?usp=sharing)
 1. 首先利用python中的Panda套件，將資料讀取成dataframe，並利用matplot將price與各項資料的關係圖畫出來，來觀察各資料標籤與價錢的關係，並決定是否替除部分標籤，但經過測試，丟去任何資料後的結果均會使預測誤差增加，因此最後決定不拿掉任何資料。
 </br>
 
