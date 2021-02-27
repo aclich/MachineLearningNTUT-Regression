@@ -1,7 +1,7 @@
 # Regression Report_109368011
 
 Kaggle Competition Page: https://www.kaggle.com/c/ntut-ml-2020-regression  
-Rank:  
+Rank(7/166):  
 ![rank_img](rank.png)
 
 
